@@ -1,0 +1,7 @@
+body{
+    margin: 0 auto;
+}
+ h1{
+    display: block;
+    border: 1px solid red;
+ }
