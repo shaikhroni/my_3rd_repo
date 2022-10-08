@@ -1,7 +1,14 @@
 body{
     margin: 0 auto;
+    text-align: center;
 }
  h1{
-    display: block;
-    border: 1px solid red;
+    display: inline-block;
+    background: pink;
+    border: 3px solid red;
+    border-radius: 8px;
+ }
+ span{
+    font-weight: bold;
+    color: blue;
  }
